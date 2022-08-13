@@ -27,10 +27,10 @@ like to price the total cost.
 ```
 
 Technologies:
-```
 **DISCLAIMER; THESE ARE CURRENTLY THE INTENDED TECHNOLOGIES; 
 THIS IS MY FIRST ATTEMPT AT THIS STACK COMBINATION, 
 THOUGH IVE USED THEM ALL SEPARATELY BEFORE**
+```
 Front end: React
 Back end: ASP.NET Core
 Database: PostgrSQL
