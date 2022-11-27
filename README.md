@@ -33,6 +33,6 @@ Technologies:
 ```
 Front end: React
 Back end: express.js
-Database: PostgrSQL
+Database: PostgreSQL
 ORM: Prisma
 ```
